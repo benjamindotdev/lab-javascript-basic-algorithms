@@ -48,7 +48,7 @@ console.log(longText.split("et").length - 1);
 
 // Bonus 2
 
-const phraseToCheck = "";
+const phraseToCheck = "tene";
 
 const phraseChecker = (phrase) => {
   for (let i = 0; i < Math.floor(phrase.length / 2); i++) {
